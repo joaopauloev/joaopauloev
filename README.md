@@ -19,7 +19,7 @@
 **Links:**
 * [LinkedIn](https://bit.ly/2VBPzGK)
 * [Medium](https://medium.com/@joaopauloev)
-* [Instagram](https://www.instagram.com/joaopauloev/)
+* [Instagram](https://www.instagram.com/jpdatascience/)
 
 
 ## Projetos:
