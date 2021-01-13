@@ -24,7 +24,7 @@
 
 ## Projetos:
 
-* **[Analisando os Dados do Airbnb: Montreal]**(https://github.com/joaopauloev/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_de_Montreal.ipynb) 
+* **[Analisando os Dados do Airbnb: Montreal](https://github.com/joaopauloev/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_de_Montreal.ipynb)** 
 
 
 ---
