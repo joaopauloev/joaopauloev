@@ -23,9 +23,8 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Analisando os Dados do Airbnb:** 
+* [Analisando os Dados do Airbnb: Montreal](https://github.com/joaopauloev/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_de_Montreal.ipynb) 
 
 
 ---
