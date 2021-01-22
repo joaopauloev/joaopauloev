@@ -9,7 +9,7 @@
 
 **Sobre mim:**
   
-  Sou João Paulo Veloso, estudante de Ciência da Computação na UniFG e aluno do curso Data Science na Prática na Sigmoidal, em Recife-PE.
+  Olá, sou João Paulo Veloso. Profissional prestes a se formar em Ciência da Computação em busca de experiência no mercado de trabalho, atualmente aprofundando conhecimento nas áreas de Data Science e Machine Learning com Python, em Recife-PE.
 
 * Graduação em Ciência da Computação 7/8 pela UniFG.
 * Técnicas de Inteligência Artificial Aplicadas na Prática pela UniFG.
