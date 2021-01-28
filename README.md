@@ -23,7 +23,6 @@
 
 ## Projetos:
 
-* **[Analisando os Dados do Airbnb: Montreal](https://github.com/joaopauloev/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_de_Montreal.ipynb)** 
 * **[Analisando a Violência no Rio de Janeiro](https://github.com/joaopauloev/Data-Science/blob/master/PROJETO_Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)**
-
+* **[Analisando os Dados do Airbnb: Montreal](https://github.com/joaopauloev/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_de_Montreal.ipynb)** 
 ---
