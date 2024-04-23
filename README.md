@@ -1,25 +1,24 @@
 [![author](https://img.shields.io/badge/author-joaopauloev-red.svg)](https://bit.ly/2VBPzGK) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/joaopauloev/Data-Science/issues)
 
 <p align="center">
-  <img src="https://i.imgur.com/bTCn98A.jpg" >
+  <img src="https://imgur.com/PefpjgF" > 
 </p>
 
 # João Paulo Veloso
-<sub>Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Deep Learning.</sub>
+<sub>Aqui você encontra meus projetos na área de Data Science.</sub>
 
 **Sobre mim:**
   
-  Olá, sou João Paulo Veloso. Profissional prestes a se formar em Ciência da Computação em busca de experiência no mercado de trabalho, atualmente aprofundando conhecimento nas áreas de Data Science e Machine Learning com Python, em Recife-PE.
-
-* Graduação em Ciência da Computação 7/8 pela UniFG.
+  Sou João Paulo Veloso. Apaixonado por desafios, esportes e games. Busco constantemente expandir minhas habilidades para contribuir de forma significativa ao desenvolvimento de soluções inovadoras no campo da tecnologia.
+  
+* Graduação em Ciência da Computação pela UniFG.
+* Especialização em Engenharia e Análise de Dados pela Cesar School. 
 * Técnicas de Inteligência Artificial Aplicadas na Prática pela UniFG.
 * Data Science na Prática pela [Sigmoidal](https://sigmoidal.ai/).
 
 
 **Links:**
 * [LinkedIn](https://bit.ly/2VBPzGK)
-
-
 
 ## Projetos:
 
